@@ -1,0 +1,6 @@
+.env
+CORPCODE.xml
+corp_code.zip
+__pycache__/
+*.pyc
+.DS_Store
