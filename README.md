@@ -18,6 +18,6 @@ Python의 Streamlit이라는 웹 프레임워크를 처음 사용해봤고, DART
 1. 필요한 라이브러리 설치
 pip install streamlit pandas requests python-dotenv
 
-2. DART_API_KEY=여기에_API_KEY_입력
+2. `modules/` 폴더 안에 `.env` 파일을 생성한 뒤 DART_API_KEY 에 실제 API KEY 입력. DART_API_KEY=본인의_API_KEY 
 
 3. streamlit run app.py
